@@ -1,0 +1,18 @@
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\bin\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\bin\Debug\negocio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\bin\Debug\dominio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\bin\Debug\dominio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\bin\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\bin\Debug\negocio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\bin\Debug\dominio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\bin\Debug\dominio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\negocio\obj\Debug\negocio.pdb

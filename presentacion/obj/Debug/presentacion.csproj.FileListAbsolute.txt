@@ -1,0 +1,34 @@
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmPrincipal.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.exe
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.exe
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\dominio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\dominio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\negocio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmArticulo.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmDetalle.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.exe
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\presentacion.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\dominio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\negocio.dll
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\dominio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\bin\Debug\negocio.pdb
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmDetalle.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmPrincipal.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.frmArticulo.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.exe
+C:\Users\joaco\Documents\JOACO\Programacion\MaxiPrograma\Curso C# nivel 2\TPFinalNivel2_Carbonaro\presentacion\obj\Debug\presentacion.pdb
